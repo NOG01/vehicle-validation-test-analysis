@@ -1,0 +1,31 @@
+VEHICLE TEST SUMMARY
+=============================================
+
+Average Speed              : 62.2 km/h
+Maximum Speed              : 113.3 km/h
+
+Average Engine Temperature : 86.0 °C
+Maximum Engine Temperature : 114.7 °C
+
+Average Brake Temperature  : 57.6 °C
+Maximum Brake Temperature  : 204.2 °C
+
+Average Fuel Consumption   : 6.44 L/h
+
+=============================================
+CRITICAL EVENTS
+=============================================
+
+Critical Engine Temperature Events : 6
+Critical Brake Temperature Events  : 4
+High Fuel Consumption Events       : 8
+
+=============================================
+CONCLUSION
+=============================================
+
+The vehicle operated within normal conditions for most of the test period.
+
+A small number of overheating and high fuel consumption events were detected.
+
+Further investigation is recommended to determine the root causes of these events.
